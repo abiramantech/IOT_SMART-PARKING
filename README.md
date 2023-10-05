@@ -32,7 +32,7 @@ Increased Safety – Parking lot employees and security guards contain real-time
 Decreased Management Costs – More automation and less manual activity saves on labor cost and resource exhaustion. 
 Enhanced User Experience – A smart parking solution will integrate the entire user experience into a unified action. Driver’s payment, spot identification, location search and time notifications all seamlessly become part of the destination arrival process. 
  
-Scope of the project :
+SCOPE OF THE PROJECT :
       At present some countries have portals which users can gain information about parking areas via the internet. This system can give users the information about parking space, but it won’t be able to give which parking slot is vacant and occupied. Hence, such a system cannot smartly handle the issue. 
 Car lifts along with an automated robotic system, which automatically takes the car to a particular parking spot as soon as the car enters on a platform. This system cannot be installed by medium scale shopping malls, movie theatres as it can cost them a huge amount.
 At many public places, the system only shows the availability but it cannot show the exact slot and path to the slot available. Hence, there is the need to smartly find the path to the vacant spot. 
