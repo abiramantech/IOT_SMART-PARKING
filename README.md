@@ -1,4 +1,4 @@
-# iot_phase1
+# iot_phase1(SMART PARKING IN)
 ABSTRACT:
     The project entitled SMART PARKING SYSTEM using Iot , the major motivation of this project is to reduce the traffic congestion in roads, 
     multi-storeyed buildings and malls due to unavailability of parking spaces .The project displays the nearest empty slot if present with respect to user location. 
