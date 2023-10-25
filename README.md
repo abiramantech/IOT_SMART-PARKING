@@ -1,4 +1,4 @@
-***SMART PARKING USING IOT***
+**SMART PARKING USING IOT**
 
 **ABSTRACT:**
     The project entitled SMART PARKING SYSTEM using Iot , the major motivation of this project is to reduce the traffic congestion in roads, 
