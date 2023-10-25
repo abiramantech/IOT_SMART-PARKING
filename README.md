@@ -16,8 +16,7 @@ Though, if there is space for parking the vehicle but so much time is squandered
 Initially when the user is about to enter the location the LCD  displays the number of empty and filled spots and when the user is with its vehicle near to the parking detect sensor ,he/she would be thrown with a notification on their mobile app of the parking slot number ,where they should park there vehicle. 
 
 **RELEVANCE OF THE PROJECT:**
-The main important benefit of a smart parking system is its advanced technology. It follows the latest technologies and concepts to assure profitable outcomes . 
-The design and implementation of smart parking is very easy to supervise and manage. This system can be easily handled by the staff members because of its well organized structure.
+The main important benefit of a smart parking system is its advanced technology. It follows the latest technologies and concepts to assure profitable outcomes .The design and implementation of smart parking is very easy to supervise and manage. This system can be easily handled by the staff members because of its well organized structure.
 
 **PROBLEM STATEMENT:**
 In recent research in metropolitan cities the parking management problem can be viewed from various angles such as high vehicle density on roads. This results in annoying issues for the drivers to park their vehicles as it is very difficult to find a parking slot. 
